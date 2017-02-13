@@ -17,7 +17,7 @@ public class JavaApplication2 {
     public static void main(String[] args) {
         // TODO code application logic here
         // erster Eintrag als Kommentar
-        // Ausgabe Hello World!
+        // Jetz noch die Ausgabe Hello World!
              System.out.println("Hello World!");
     }
     
